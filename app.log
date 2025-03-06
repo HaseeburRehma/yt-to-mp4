@@ -1,0 +1,684 @@
+2025-02-25 05:21:02,572 - app - INFO - Client connected to /progress: puKK8yEwOEAk1r0wAAAB
+2025-02-25 05:21:02,590 - app - INFO - Client connected to /progress: XwU19Tbm7DQdzkdrAAAD
+2025-02-25 05:21:04,056 - app - INFO - Client connected to /progress: vj1BxEZT_WqQmn7NAAAF
+2025-02-25 05:22:44,667 - app - INFO - Client disconnected from /progress: XwU19Tbm7DQdzkdrAAAD
+2025-02-25 05:22:45,407 - app - INFO - Client connected to /progress: rN46n6TtkxMsR1TqAAAH
+2025-02-25 05:23:01,576 - app - ERROR - FFmpeg not found at F:\YT to mp4 flask\YouTube-Downloader-Web-main\ffmpeg\bin\ffmpeg.exe
+2025-02-25 05:23:30,426 - app - INFO - Client disconnected from /progress: rN46n6TtkxMsR1TqAAAH
+2025-02-25 05:23:43,428 - app - INFO - Client connected to /progress: N7pI__xQCNpzq6RdAAAJ
+2025-02-25 05:25:35,057 - app - INFO - Client connected to /progress: OGUvzdJs_711U3IlAAAC
+2025-02-25 05:25:35,060 - app - INFO - Client connected to /progress: ICR1Z3CMDd09ww3KAAAD
+2025-02-25 05:25:35,070 - app - INFO - Client connected to /progress: OcuvXY34fVtHl-H1AAAF
+2025-02-25 05:25:38,812 - app - INFO - Starting conversion for job 2d4fea14-482d-44c4-b86b-37f38f16a44d with format mp4_720
+2025-02-25 05:25:44,821 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.0\x1b[0m'
+2025-02-25 05:25:44,823 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.1\x1b[0m'
+2025-02-25 05:25:44,826 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.1\x1b[0m'
+2025-02-25 05:25:44,828 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.3\x1b[0m'
+2025-02-25 05:25:44,832 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.7\x1b[0m'
+2025-02-25 05:25:44,835 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  1.3\x1b[0m'
+2025-02-25 05:25:44,839 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  2.7\x1b[0m'
+2025-02-25 05:25:44,843 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  5.4\x1b[0m'
+2025-02-25 05:25:44,854 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 10.9\x1b[0m'
+2025-02-25 05:25:44,871 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 21.8\x1b[0m'
+2025-02-25 05:25:44,892 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 43.6\x1b[0m'
+2025-02-25 05:25:44,974 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 87.1\x1b[0m'
+2025-02-25 05:25:44,991 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m100.0\x1b[0m'
+2025-02-25 05:25:45,208 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.1\x1b[0m'
+2025-02-25 05:25:45,211 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  0.4\x1b[0m'
+2025-02-25 05:25:45,216 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  1.0\x1b[0m'
+2025-02-25 05:25:45,219 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  2.1\x1b[0m'
+2025-02-25 05:25:45,224 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  4.3\x1b[0m'
+2025-02-25 05:25:45,227 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m  8.7\x1b[0m'
+2025-02-25 05:25:45,230 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 17.6\x1b[0m'
+2025-02-25 05:25:45,234 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 35.3\x1b[0m'
+2025-02-25 05:25:45,238 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m 70.7\x1b[0m'
+2025-02-25 05:25:45,245 - app - ERROR - Error in progress hook: could not convert string to float: '\x1b[0;94m100.0\x1b[0m'
+2025-02-25 05:31:46,883 - app - INFO - Client connected to /progress: iOkz5GaQG3mS54c1AAAB
+2025-02-25 05:32:08,649 - app - INFO - Starting conversion for job 13d83304-3ffb-42ce-aa47-252bce1ea8d9 with format mp4_1024
+2025-02-25 05:32:14,604 - app - ERROR - Conversion error for job 13d83304-3ffb-42ce-aa47-252bce1ea8d9: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-02-25 05:32:25,143 - app - INFO - Client connected to /progress: T9m8Kzheu4I1MbkDAAAE
+2025-02-25 05:32:25,159 - app - INFO - Client connected to /progress: c9ZTWDDOiAbWXPwDAAAF
+2025-02-25 05:33:06,940 - app - INFO - Client disconnected from /progress: iOkz5GaQG3mS54c1AAAB
+2025-02-25 05:34:24,900 - app - INFO - Client connected to /progress: Ovuyh2ODzTh265z7AAAH
+2025-02-25 05:35:20,072 - app - INFO - Client connected to /progress: XxM8OzHFB-K0XJKLAAAB
+2025-02-25 05:35:20,087 - app - INFO - Client connected to /progress: _vKbyh9ZX5H_apdRAAAD
+2025-02-25 05:35:21,054 - app - INFO - Client connected to /progress: f5RZvT7KKn0r3kGIAAAF
+2025-02-25 05:38:32,388 - app - INFO - Client connected to /progress: nRQpMPGglm9n9Cu_AAAH
+2025-02-25 05:38:35,152 - app - INFO - Starting conversion for job b1a1707d-ac96-48a5-a5f5-a98af69581b4 with format mp4_1024
+2025-02-25 05:38:44,862 - app - INFO - Starting conversion for job d3012bbb-26dd-4fa1-9c02-450f0c435269 with format mp4_best
+2025-02-25 05:42:56,134 - app - INFO - Client connected to /progress: FVGSu-TNH9pZ278iAAAB
+2025-02-25 05:42:56,144 - app - INFO - Client connected to /progress: 4Yi-ccq5rMnk8nnkAAAD
+2025-02-25 05:42:58,067 - app - INFO - Client connected to /progress: l9qkKJxec9uVXvyKAAAG
+2025-02-25 05:42:58,075 - app - INFO - Client connected to /progress: -DZUZYoqULfZYn8JAAAH
+2025-02-25 05:43:32,684 - app - INFO - Client disconnected from /progress: -DZUZYoqULfZYn8JAAAH
+2025-02-25 05:43:33,270 - app - INFO - Client connected to /progress: hhFtHVJPQ9dW99G_AAAJ
+2025-02-25 05:43:49,847 - app - INFO - Starting conversion for job 63cc912b-2c57-4348-a6d9-15c74ebdf6cd with format mp4_1024
+2025-02-25 05:49:29,006 - app - INFO - Client connected to /progress: 4azJvaVsZTx6gmZaAAAB
+2025-02-25 05:49:29,126 - app - INFO - Client connected to /progress: NAkgB-akeXcZoDR3AAAD
+2025-02-25 05:49:29,162 - app - INFO - Client connected to /progress: Cxy0czPcizcAzMmhAAAF
+2025-02-25 05:49:32,537 - app - INFO - Client connected to /progress: YUeNce0lAaoUQ8NmAAAH
+2025-02-25 05:49:58,637 - app - INFO - Starting conversion for job e2831b86-b820-4684-9545-61d8349d3b8d with format mp4_1024
+2025-02-25 05:51:39,122 - app - INFO - Client connected to /progress: AF2mFOV4xISO0DSSAAAB
+2025-02-25 05:51:39,703 - app - INFO - Client connected to /progress: Sz-a2U2Zi4OtHE-kAAAD
+2025-02-25 05:51:40,053 - app - INFO - Client connected to /progress: ZTi0YX6YE6G1bTpqAAAF
+2025-02-25 05:51:41,105 - app - INFO - Client connected to /progress: vUlKbjSdThk2EGH8AAAH
+2025-02-25 05:51:43,922 - app - INFO - Client disconnected from /progress: vUlKbjSdThk2EGH8AAAH
+2025-02-25 05:51:45,308 - app - INFO - Client connected to /progress: LEIcI6iXQbhmYBmvAAAJ
+2025-02-25 05:52:05,606 - app - INFO - Starting conversion for job 0590a1fb-01ef-4524-9021-1a3d1e43c5bb with format mp4_best
+2025-02-25 06:08:23,069 - app - INFO - Client connected to /progress: _WwNEBewP_iLynQRAAAB
+2025-02-25 06:08:23,162 - app - INFO - Client connected to /progress: 5D4_TccqmBjCqyxcAAAD
+2025-02-25 06:08:23,178 - app - INFO - Client connected to /progress: 5MbNMkhS-kQD21flAAAF
+2025-02-25 06:08:26,462 - app - INFO - Client connected to /progress: B5SFGQM4FQuNAf2cAAAH
+2025-02-25 06:08:30,685 - app - INFO - Client disconnected from /progress: _WwNEBewP_iLynQRAAAB
+2025-02-25 06:08:31,228 - app - INFO - Client connected to /progress: NnN8K0GFGxxImUNwAAAJ
+2025-02-25 06:08:43,437 - app - INFO - Starting conversion for job 54f424b0-52a7-43c9-83b0-4e7429d183db with format mp4_1024
+2025-02-25 06:11:33,463 - app - INFO - Client connected to /progress: KkLckh5vHPBfYmfGAAAB
+2025-02-25 06:11:33,795 - app - INFO - Client connected to /progress: a4S4zK_HHpc1Lm2nAAAD
+2025-02-25 06:11:35,201 - app - INFO - Client connected to /progress: sDNspyMTttHOmOn1AAAF
+2025-02-25 06:11:38,161 - app - INFO - Client connected to /progress: KnW3pR9Ss3VLB6UjAAAH
+2025-02-25 06:11:59,661 - app - INFO - Starting conversion for job 86a6280d-dddc-4d37-951b-5ba17812005c with format mp3_256
+2025-02-25 06:12:09,205 - app - INFO - Client disconnected from /progress: sDNspyMTttHOmOn1AAAF
+2025-02-25 06:12:09,219 - app - INFO - Client disconnected from /progress: KkLckh5vHPBfYmfGAAAB
+2025-02-25 06:12:10,204 - app - INFO - Client disconnected from /progress: KnW3pR9Ss3VLB6UjAAAH
+2025-02-25 06:12:46,156 - app - INFO - Client connected to /progress: ruW8gJhAG_rtaX7FAAAJ
+2025-02-25 06:13:32,655 - app - INFO - Client connected: ZndLpVLf3DOQds1YAAAB
+2025-02-25 06:13:34,180 - app - INFO - Client connected: rHk0fHX1foVhU3qwAAAD
+2025-02-25 06:13:52,133 - app - INFO - Client connected: LQ31bNM69bEC2sOLAAAB
+2025-02-25 06:13:52,414 - app - INFO - Client connected: WYFnZXEA5vZWawPbAAAD
+2025-02-25 06:13:54,892 - app - INFO - Client connected: o1AIsjK3J9RQ3KIBAAAF
+2025-02-25 06:14:11,914 - app - INFO - Starting conversion for job f13837ba-f955-4fa2-96be-d47b14224389 with format mp4_1024
+2025-02-25 06:23:19,175 - app - INFO - Client connected: 4oJKNkbQrSKwLezuAAAB
+2025-02-25 06:23:20,163 - app - INFO - Client connected: mbhrrXbPIkGDZGeAAAAD
+2025-02-25 06:23:22,170 - app - INFO - Client connected: hRKrniBQiLDfB-VRAAAF
+2025-02-25 06:23:34,093 - app - INFO - Client connected: pTVVd2Jp0XyyIsgEAAAH
+2025-02-25 06:23:50,487 - app - INFO - Starting conversion for job 72bbcf34-ab20-4fe9-b7b0-30726ed904a6 with format mp4_1024
+2025-02-25 06:28:54,783 - app - INFO - Client connected: sEI-R5ZjQt3T13NGAAAB
+2025-02-25 06:28:55,312 - app - INFO - Client connected: PFyLUIPqgLkP5FYwAAAD
+2025-02-25 06:28:56,395 - app - INFO - Client connected: nW27oa0yJ8NWvuwhAAAF
+2025-02-25 06:29:00,286 - app - INFO - Client connected: drP0JeLFL2-Gvoo4AAAH
+2025-02-25 06:29:24,945 - app - INFO - Starting conversion for job bed0fae5-ac75-44f7-8696-8101a7f1603e with format mp4_1024
+2025-02-25 06:35:33,716 - app - INFO - Client connected: yuPonaIgj5SLwCdEAAAB
+2025-02-25 06:35:34,486 - app - INFO - Client connected: 7pGTimi7hIjhzaKoAAAD
+2025-02-25 06:35:34,581 - app - INFO - Client connected: JZFQ-8T2YKHPPbtaAAAF
+2025-02-25 06:35:36,210 - app - INFO - Client connected: AFIbLu8E_LfZnKdHAAAH
+2025-02-25 06:35:49,608 - app - INFO - Starting conversion for job 73a48f71-5991-436a-8c3b-79329173db14 with format mp4_1024
+2025-02-25 06:41:29,940 - app - INFO - Starting conversion for job 3b7d08a3-a1a0-442c-8cdb-03865a402ef2 with format mp4_1024
+2025-02-25 06:59:08,257 - app - INFO - Starting conversion for job d128e27e-b5ce-4614-9c2d-ccf4274b36d9 with format mp4_720
+2025-02-25 07:04:28,812 - app - INFO - Starting conversion for job 5d805b23-7754-41fb-8799-9f8fb0600cd8 with format mp4_1024
+2025-02-25 07:11:15,168 - app - INFO - Client connected: KhryAE8Uz8Ulg0rIAAAC
+2025-02-25 07:11:15,176 - app - INFO - Client connected: l6XB9juijRSzqgy6AAAD
+2025-02-25 07:11:19,116 - app - INFO - Client connected: 8blXTaHFB-bb27IDAAAF
+2025-02-25 07:13:16,556 - app - INFO - Client connected: -NHRgPqEI5AgxxlGAAAH
+2025-02-25 07:13:30,301 - app - INFO - Starting conversion for job ad10a0a9-c66e-4af2-a282-dab83f5dae57 with format mp4_1024
+2025-02-25 07:19:51,227 - app - INFO - Client connected: nM1SuH1rjDEEY545AAAB
+2025-02-25 07:19:51,402 - app - INFO - Client connected: ofdV1Q9hSJYSICBrAAAE
+2025-02-25 07:19:51,448 - app - INFO - Client connected: FRcT4Wujs6u8MG12AAAG
+2025-02-25 07:19:51,525 - app - INFO - Client connected: ofqj7N5DyZohkTIwAAAH
+2025-02-25 07:20:14,007 - app - INFO - Starting conversion for job aed5aed4-721f-4372-a24d-e1f84e7f53aa with format mp4_best
+2025-02-25 07:22:07,773 - app - INFO - Client connected: 68Rf0Ylx89BXiz9_AAAB
+2025-02-25 07:22:07,875 - app - INFO - Client connected: 0oIHmeTfcIwDzN2QAAAD
+2025-02-25 07:22:08,835 - app - INFO - Client connected: muW9P92Ks5HosQzAAAAF
+2025-02-25 07:22:18,150 - app - INFO - Client connected: gzcheqAaC97JuVDiAAAH
+2025-02-25 07:22:27,123 - app - INFO - Starting conversion for job 840a4589-071b-4912-a9c2-1798a14edeb2 with format mp4_best
+2025-02-25 07:29:05,918 - app - INFO - Client connected: nRX7axrMuvlcoYxaAAAC
+2025-02-25 07:29:23,144 - app - INFO - Client connected: OUD_vdKCA8jJZkWaAAAE
+2025-02-25 07:29:23,209 - app - INFO - Client connected: LTetB6cSWAUyXfsxAAAG
+2025-02-25 07:29:27,004 - app - INFO - Starting job 82f26f07-3c57-4f63-9661-209a3b0ecfbd for format mp4_1024
+2025-02-25 07:32:45,227 - app - INFO - Client connected: mYDRpNp50rhDSYyaAAAB
+2025-02-25 07:32:48,561 - app - INFO - Client connected: wReIeQ-j-BT7g3FMAAAD
+2025-02-25 07:32:49,193 - app - INFO - Client connected: zRrv3WICNMOOj9UuAAAF
+2025-02-25 07:32:50,354 - app - INFO - Client disconnected: wReIeQ-j-BT7g3FMAAAD
+2025-02-25 07:32:51,139 - app - INFO - Client connected: N98de1_3LUnRgf40AAAH
+2025-02-25 07:33:13,822 - app - INFO - Starting job 5845e9cb-49f9-4707-97f7-0273d080230f for format mp3_256
+2025-02-25 07:33:26,765 - app - INFO - Job 5845e9cb-49f9-4707-97f7-0273d080230f temp files: ['Travis_Scott_x_Vizion_My_Eyes_Corvette_C6.mp3']
+2025-02-25 07:33:26,766 - app - INFO - Job 5845e9cb-49f9-4707-97f7-0273d080230f completed. Merged file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp284oid2q\Travis_Scott_x_Vizion_My_Eyes_Corvette_C6.mp3
+2025-02-25 07:33:26,781 - app - INFO - Client disconnected: N98de1_3LUnRgf40AAAH
+2025-02-25 07:33:27,248 - app - INFO - Client disconnected: mYDRpNp50rhDSYyaAAAB
+2025-02-25 07:37:51,591 - app - INFO - Client connected: Wz8C9GnWBCLgpCawAAAJ
+2025-02-25 07:39:26,321 - app - INFO - Client connected: SmAC3E0P1_8z-uskAAAB
+2025-02-25 07:39:28,074 - app - INFO - Client connected: oGgY8mYUqaJDcZ26AAAD
+2025-02-25 07:39:31,144 - app - INFO - Client connected: Ok1-yTByjfiOyGcMAAAF
+2025-02-25 07:39:52,823 - app - INFO - Starting job f71d014b-e833-4a6c-8ad3-5d2de9c73ff0 for format mp3_256
+2025-02-25 07:40:03,546 - app - INFO - Job f71d014b-e833-4a6c-8ad3-5d2de9c73ff0 temp files: ['Travis_Scott_x_Vizion_My_Eyes_Corvette_C6.mp3']
+2025-02-25 07:40:03,547 - app - INFO - Job f71d014b-e833-4a6c-8ad3-5d2de9c73ff0 completed. Merged file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpik8oxlin\Travis_Scott_x_Vizion_My_Eyes_Corvette_C6.mp3
+2025-02-25 07:40:03,567 - app - INFO - Client disconnected: oGgY8mYUqaJDcZ26AAAD
+2025-02-25 07:40:03,925 - app - INFO - Client disconnected: Ok1-yTByjfiOyGcMAAAF
+2025-02-25 07:40:20,236 - app - INFO - Client connected: xfRQNypCU1SbUVOxAAAH
+2025-02-25 07:40:36,966 - app - INFO - Starting job ef4abf09-3b21-413a-9ac6-d478945284fe for format mp4_1024
+2025-02-25 07:40:45,147 - app - INFO - Client connected: w15hvUlyF1-FznFvAAAJ
+2025-02-25 08:17:59,804 - app - INFO - Client connected: DvfAO93g_deW9DplAAAB
+2025-02-25 08:18:01,690 - app - INFO - Client connected: hExaYQKkhdr5DhThAAAD
+2025-02-25 08:18:03,777 - app - INFO - Client connected: x_u6aNX2DyvwmaRmAAAF
+2025-02-25 08:18:16,591 - app - INFO - Starting job 301646d5-cb79-49df-a3d2-33707b8d63a4 for format mp4_1024
+2025-02-25 08:22:51,374 - app - INFO - Client connected: QsIDi5zFkfGGm8uHAAAB
+2025-02-25 08:23:07,235 - app - INFO - Starting job e5065fe4-e1df-403b-a92c-79a6f85041c0 for format mp4_1024
+2025-02-25 08:30:46,666 - app - INFO - Client connected: ZrVZ__G-vyeD7G77AAAC
+2025-02-25 08:30:46,673 - app - INFO - Client connected: qo6ciTEEJUDvCzwTAAAD
+2025-02-25 08:31:03,527 - app - INFO - Client connected: YdhYyA-lccXI2sZSAAAF
+2025-02-25 08:31:27,027 - app - INFO - Starting job 0613507a-ebcd-4a05-aaa0-162b982f9293 for format mp4_best
+2025-02-25 08:43:30,153 - app - INFO - Client connected: cN-zDsYUVw-PByRkAAAB
+2025-02-25 08:43:32,156 - app - INFO - Client connected: -A4mbdkI6Q0q6harAAAD
+2025-02-25 08:43:33,834 - app - INFO - Client connected: eahQnhVBNtIKUFuwAAAF
+2025-02-25 08:43:36,626 - app - INFO - Client connected: W6ZFAiQR8gA9mbj4AAAH
+2025-02-25 08:43:38,646 - app - INFO - Client disconnected: W6ZFAiQR8gA9mbj4AAAH
+2025-02-25 08:43:39,839 - app - INFO - Client disconnected: eahQnhVBNtIKUFuwAAAF
+2025-02-25 08:43:40,102 - app - INFO - Client connected: s2EPe8_NeimWdTpdAAAJ
+2025-02-25 08:44:02,189 - app - INFO - Starting job 6c132f9f-6f77-4b43-930a-0b444d964671 for format mp4_best
+2025-02-25 08:53:52,181 - app - INFO - Client connected: gf3ckfEAF7N4RPJWAAAB
+2025-02-25 08:53:54,136 - app - INFO - Client connected: 6nPQJNCEaHaYdRbYAAAD
+2025-02-25 08:53:54,437 - app - INFO - Client connected: ei_Vlh6iMwonAMMLAAAF
+2025-02-25 08:54:17,516 - app - INFO - Starting job 095f7e72-7ce5-4a51-b816-e9b64845b1e3 for format mp4_best
+2025-02-25 08:55:19,179 - app - INFO - Client disconnected: 6nPQJNCEaHaYdRbYAAAD
+2025-02-25 08:55:39,052 - app - INFO - Client connected: n3pGcg6HP7psFwO8AAAH
+2025-02-25 08:57:39,691 - app - INFO - Client connected: C6VNytnmAJr7wROfAAAB
+2025-02-25 08:57:41,404 - app - INFO - Client connected: jwYiIONHAvcilzUBAAAD
+2025-02-25 08:57:41,423 - app - INFO - Client connected: wEK49_JBppL8yFfUAAAF
+2025-02-25 08:57:48,686 - app - INFO - Client connected: HCmLRgoddpflivWEAAAB
+2025-02-25 08:57:49,140 - app - INFO - Client connected: vXeXLa_RgPl_cesPAAAD
+2025-02-25 08:57:50,165 - app - INFO - Client connected: uFbTPqQpnNRk4NzfAAAF
+2025-02-25 08:57:59,736 - app - INFO - Starting job 712849cc-9094-4588-8cec-118bca953ab8 for format mp4_best
+2025-02-25 09:01:43,483 - app - INFO - Client connected: p-L3qoAa3ZiKbT51AAAB
+2025-02-25 09:01:43,601 - app - INFO - Client connected: hrtfAz8GpcueVWl8AAAD
+2025-02-25 09:01:43,792 - app - INFO - Client connected: TpFPp7FgU43TJVMjAAAF
+2025-02-25 09:01:44,572 - app - INFO - Client disconnected: p-L3qoAa3ZiKbT51AAAB
+2025-02-25 09:01:45,141 - app - INFO - Client connected: siDLeEiQwwbgt_nMAAAH
+2025-02-25 09:02:24,707 - app - INFO - Starting job 2414d268-e551-4ec9-9d92-1c85104a344b for format mp4_best
+2025-02-25 09:08:47,172 - app - INFO - Client connected: P9LdDPJCYkm3lffdAAAC
+2025-02-25 09:08:47,193 - app - INFO - Client connected: TykoHD6Kgtk4VikiAAAE
+2025-02-25 09:08:47,207 - app - INFO - Client connected: vMzgL9Mtiv24HLyZAAAF
+2025-02-25 09:09:07,115 - app - INFO - Client disconnected: vMzgL9Mtiv24HLyZAAAF
+2025-02-25 09:09:07,842 - app - INFO - Client connected: AE6FCuXKGYwYYEcWAAAH
+2025-02-25 09:09:22,803 - app - INFO - Starting job ce37eea4-88be-4ed8-93f4-7199e434a527 for format mp4_720
+2025-02-25 09:09:25,037 - app - ERROR - Pytube conversion error in job ce37eea4-88be-4ed8-93f4-7199e434a527: HTTP Error 403: Forbidden
+2025-02-25 09:09:33,696 - app - INFO - Starting job 6d7f55bf-a39b-4607-9e0c-3df2b366e7a4 for format mp4_best
+2025-02-25 09:09:35,872 - app - ERROR - Pytube conversion error in job 6d7f55bf-a39b-4607-9e0c-3df2b366e7a4: HTTP Error 403: Forbidden
+2025-02-25 09:10:21,067 - app - INFO - Client disconnected: AE6FCuXKGYwYYEcWAAAH
+2025-02-25 09:16:41,263 - app - INFO - Client connected: Wk5xtdDeXqzvjXHMAAAB
+2025-02-25 09:16:43,247 - app - INFO - Client connected: 4YBBzZb0nDX4U9w0AAAD
+2025-02-25 09:16:44,154 - app - INFO - Client connected: n9dbCbI3fUQjUjiwAAAF
+2025-02-25 09:16:51,272 - app - INFO - Starting job e545864d-fafc-441a-af90-ddbe73d40e72 for format mp4_best
+2025-02-25 09:16:51,273 - app - ERROR - Pytube conversion error in job e545864d-fafc-441a-af90-ddbe73d40e72: YouTube.__init__() got an unexpected keyword argument 'headers'
+2025-02-25 09:17:35,669 - app - INFO - Client connected: vM-53zOshmVz5oVgAAAB
+2025-02-25 09:17:37,145 - app - INFO - Client connected: Emx4dcmKj2EnIvpNAAAD
+2025-02-25 09:20:59,176 - app - INFO - Client connected: _z_KniEBxID7P8EjAAAB
+2025-02-25 09:21:03,462 - app - INFO - Client connected: snHx2cOXjQ2RxccdAAAD
+2025-02-25 09:25:06,141 - app - INFO - Client connected: mMZhFdCregNV1-3IAAAB
+2025-02-25 09:25:08,143 - app - INFO - Client connected: c09zYrudUCMC7mL4AAAD
+2025-02-25 09:25:16,153 - app - INFO - Client connected: 6MSTekBscSGnEetDAAAB
+2025-02-25 09:25:17,579 - app - INFO - Client connected: Yyi4tHWfc3bdSbKcAAAD
+2025-02-25 09:25:18,154 - app - INFO - Client connected: kR5TeKvmkE1hHTymAAAF
+2025-02-25 09:25:21,120 - app - INFO - Client disconnected: Yyi4tHWfc3bdSbKcAAAD
+2025-02-25 09:25:21,713 - app - INFO - Client connected: SsBwa5PiE8INPMh8AAAH
+2025-02-25 09:25:35,872 - app - INFO - Starting job a5f1afbd-fe83-46ce-b41d-8d6c77700b12 for format mp4_1024
+2025-02-25 09:29:30,181 - app - INFO - Client connected: rUT6nx08-Emkq_1tAAAB
+2025-02-25 09:29:38,783 - app - INFO - Client disconnected: rUT6nx08-Emkq_1tAAAB
+2025-02-25 09:29:39,255 - app - INFO - Client connected: IjP8kf8cNe3-f4EcAAAD
+2025-02-25 09:30:23,172 - app - INFO - Client connected: hKzgdoWcwUQM_O70AAAF
+2025-02-25 09:30:23,211 - app - INFO - Client connected: r1RXWWPMMyc127rcAAAH
+2025-02-25 09:30:35,336 - app - INFO - Starting job 05970d92-92a8-4068-bee2-a58e02b666ea for format mp4_1024
+2025-02-25 09:30:42,230 - app - ERROR - Conversion error in job 05970d92-92a8-4068-bee2-a58e02b666ea: Merging failed: output file not found
+2025-02-25 09:31:30,298 - app - INFO - Client disconnected: IjP8kf8cNe3-f4EcAAAD
+2025-02-25 09:33:53,062 - app - INFO - Client connected: rzYM3mJjEiDIoFJiAAAB
+2025-02-25 09:33:53,187 - app - INFO - Client connected: LtuMpbuFB8Afax3lAAAD
+2025-02-25 09:33:55,116 - app - INFO - Client connected: zjhX21YCp2bnZu-9AAAF
+2025-02-25 09:33:58,929 - app - INFO - Starting job af746ba3-f842-43fc-b429-ce60b662e66b for format mp4_best
+2025-02-25 09:34:46,383 - app - INFO - Client disconnected: zjhX21YCp2bnZu-9AAAF
+2025-02-25 09:37:34,163 - app - INFO - Client connected: oONWEjoJxpuNHUwEAAAB
+2025-02-25 09:37:35,148 - app - INFO - Client connected: GicnHT4WDURRjvOyAAAD
+2025-02-25 09:37:44,379 - app - INFO - Client connected: 5U4b0gOCs936Rj_1AAAB
+2025-02-25 09:37:45,081 - app - INFO - Starting job 6b12a88a-d0fd-4de4-8501-f5f0ffe7c658 for format mp4_best
+2025-02-25 09:37:46,189 - app - INFO - Client connected: qMGndwA_liYXzyW8AAAD
+2025-02-25 09:37:47,150 - app - INFO - Client connected: phhwh2cGRTcdroOqAAAF
+2025-02-25 09:38:01,984 - app - ERROR - Conversion error in job 6b12a88a-d0fd-4de4-8501-f5f0ffe7c658: Merging failed: output file not found
+2025-02-25 09:38:44,451 - app - INFO - Client disconnected: 5U4b0gOCs936Rj_1AAAB
+2025-02-25 09:42:00,386 - app - INFO - Client connected: vOPb7jwF4ChueMX7AAAH
+2025-02-25 09:42:51,702 - app - INFO - Client connected: ywMeIeVAjN9kT0tDAAAB
+2025-02-25 09:42:53,204 - app - INFO - Client connected: P5ACnV-RBLiyu_C7AAAE
+2025-02-25 09:42:53,211 - app - INFO - Client connected: yNRKrDMVWVCyB_TaAAAF
+2025-02-25 09:43:00,384 - app - INFO - Starting job 1defea84-4ed7-42d9-8181-32c99b0dfe5b for format mp4_1024
+2025-02-25 09:43:02,064 - app - INFO - Client connected: meBcgaFakjet9NwvAAAD
+2025-02-25 09:43:02,071 - app - INFO - Client connected: WYDkCFWC4n3X5Ks9AAAE
+2025-02-25 09:43:02,093 - app - INFO - Client connected: plhA5DyokcXWnkJYAAAF
+2025-02-25 09:43:10,549 - app - INFO - Merged file not found; attempting manual merge.
+2025-02-25 09:43:10,551 - app - ERROR - Conversion error in job 1defea84-4ed7-42d9-8181-32c99b0dfe5b: Merging failed: not enough parts found for manual merge
+2025-02-25 09:43:48,811 - app - INFO - Client disconnected: WYDkCFWC4n3X5Ks9AAAE
+2025-02-25 09:51:07,424 - app - INFO - Client connected: al-_K5Kp2jlNqZGtAAAB
+2025-02-25 09:51:11,202 - app - INFO - Client connected: 4hO2Y7MSGGVEeiiLAAAD
+2025-02-25 09:51:15,603 - app - INFO - Client connected: kdokL_Osjo2-8-eWAAAF
+2025-02-25 09:51:20,501 - app - INFO - Client disconnected: kdokL_Osjo2-8-eWAAAF
+2025-02-25 09:51:21,087 - app - INFO - Client connected: uR8uEMPdXODpBC9nAAAH
+2025-02-25 09:51:33,902 - app - INFO - Starting job 1d8226f5-a2b4-4256-a0b4-944ca081b0a5 for format mp3_128
+2025-02-25 09:51:42,203 - app - INFO - Merged file not found; attempting manual merge.
+2025-02-25 09:51:42,205 - app - INFO - Files in temp_dir: ['PORSCHE_9HATE9_-_BLENDER_ANIMATION.mp3']
+2025-02-25 09:51:42,207 - app - ERROR - Conversion error in job 1d8226f5-a2b4-4256-a0b4-944ca081b0a5: Merging failed: not enough parts found for manual merge. Please update yt-dlp to the latest version.
+2025-02-25 09:51:53,661 - app - INFO - Starting job 1e69f7fc-6ddf-435c-bcf6-1011146db9a3 for format mp4_best
+2025-02-25 09:52:17,228 - app - INFO - Merged file not found; attempting manual merge.
+2025-02-25 09:52:17,229 - app - INFO - Files in temp_dir: ['PORSCHE_9HATE9_-_BLENDER_ANIMATION.mp4']
+2025-02-25 09:52:17,231 - app - ERROR - Conversion error in job 1e69f7fc-6ddf-435c-bcf6-1011146db9a3: Merging failed: not enough parts found for manual merge. Please update yt-dlp to the latest version.
+2025-02-25 10:04:13,913 - app - INFO - Client connected: xiLqBaqpz2lOQolOAAAC
+2025-02-25 10:04:14,126 - app - INFO - Client connected: XWD5y-o0p8km5XGtAAAD
+2025-02-25 10:04:14,807 - app - INFO - Starting job 42df3515-62f7-4bd6-b3b8-e31481cc46d8 for format mp4_best
+2025-02-25 10:04:16,161 - app - INFO - Client connected: WYtg-LMIkOytk4MmAAAF
+2025-02-25 10:04:36,093 - app - INFO - Merged file not found; attempting manual merge.
+2025-02-25 10:04:36,094 - app - INFO - Files in temp_dir: ['PORSCHE_9HATE9_-_BLENDER_ANIMATION.mp4']
+2025-02-25 10:04:36,095 - app - ERROR - Conversion error in job 42df3515-62f7-4bd6-b3b8-e31481cc46d8: No fragments found; download may have failed.
+2025-02-25 10:04:58,930 - app - INFO - Client disconnected: xiLqBaqpz2lOQolOAAAC
+2025-02-25 10:04:59,130 - app - INFO - Client disconnected: XWD5y-o0p8km5XGtAAAD
+2025-02-25 10:05:02,684 - app - INFO - Client connected: P3oRbN8mIhoAZHEcAAAB
+2025-02-25 10:05:04,156 - app - INFO - Client connected: yOXs7eL4oh61D5XaAAAD
+2025-02-25 10:05:05,185 - app - INFO - Client connected: x5WFcGLHK8eYMwQ9AAAF
+2025-02-25 10:06:58,193 - app - INFO - Client connected: WZgCt4u4g1q4bq4oAAAB
+2025-02-25 10:06:59,157 - app - INFO - Client connected: eY9yqvp34Ad2efoqAAAE
+2025-02-25 10:06:59,182 - app - INFO - Client connected: ZxMy7IA7rY3TZSmeAAAF
+2025-02-25 10:07:07,817 - app - INFO - Client connected: WWQvLpzZ23KvN32RAAAC
+2025-02-25 10:07:07,846 - app - INFO - Client connected: Oh8QikZKeSSdO5VFAAAE
+2025-02-25 10:07:07,852 - app - INFO - Client connected: QkZ-Rt9yFJ387uA5AAAF
+2025-02-25 10:07:08,073 - app - INFO - Client disconnected: WWQvLpzZ23KvN32RAAAC
+2025-02-25 10:07:08,685 - app - INFO - Client connected: JFnb9F1MZnt6deZlAAAH
+2025-02-25 10:07:29,926 - app - INFO - Starting job 89c9f479-db0f-4f65-8dfd-baff30e2235a for format mp4_best
+2025-02-25 10:08:05,171 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:08:05,172 - app - INFO - Job 89c9f479-db0f-4f65-8dfd-baff30e2235a completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpoehwvaht\The_Gorge_-_Official_Trailer_2025_Anya_Taylor-Joy_Sigourney_Weaver_Miles_Teller_CCXP_2024.mp4
+2025-02-25 10:08:17,893 - app - INFO - Client disconnected: QkZ-Rt9yFJ387uA5AAAF
+2025-02-25 10:08:17,897 - app - INFO - Client disconnected: Oh8QikZKeSSdO5VFAAAE
+2025-02-25 10:08:18,637 - app - INFO - Client disconnected: JFnb9F1MZnt6deZlAAAH
+2025-02-25 10:08:19,273 - app - INFO - Client connected: 3fDIdX1vLknfIUzbAAAJ
+2025-02-25 10:08:19,752 - app - INFO - Client connected: ZJfqZ7VD2Wpr1gDJAAAL
+2025-02-25 10:08:20,144 - app - INFO - Client connected: HXc0CKipGAmfSZ-SAAAN
+2025-02-25 10:10:01,661 - app - INFO - Client connected: Ity5lrZTwBN5NqTnAAAB
+2025-02-25 10:10:02,145 - app - INFO - Client connected: JX4u3t9lLccSbtvAAAAD
+2025-02-25 10:10:03,194 - app - INFO - Client connected: z_2Y-eN9bdq_ps0aAAAF
+2025-02-25 10:10:09,565 - app - INFO - Client disconnected: z_2Y-eN9bdq_ps0aAAAF
+2025-02-25 10:10:10,168 - app - INFO - Client connected: Oe8VKjs3gKX4dU1iAAAH
+2025-02-25 10:10:38,980 - app - INFO - Starting job 8b01f5da-9d21-40a9-9dd1-5dc2b09da7f2 for format mp4_best
+2025-02-25 10:14:09,920 - app - INFO - Client connected: -K4CcVOQZn4M2J20AAAB
+2025-02-25 10:14:14,151 - app - INFO - Client connected: LDlZgnI-rcu3bdkBAAAD
+2025-02-25 10:14:23,302 - app - INFO - Client connected: kifik2DoBxVOwe23AAAF
+2025-02-25 10:14:46,321 - app - INFO - Client disconnected: kifik2DoBxVOwe23AAAF
+2025-02-25 10:14:46,838 - app - INFO - Client connected: hwoFPS0W3ORcj5gmAAAH
+2025-02-25 10:15:02,706 - app - INFO - Starting job 6762936b-90e9-48e4-a0f6-6bb7ae971d2c for format mp4_best
+2025-02-25 10:15:15,400 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:15:15,401 - app - INFO - Job 6762936b-90e9-48e4-a0f6-6bb7ae971d2c completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp5adtzy6s\The_Gorge_-_Official_Trailer_2025_Anya_Taylor-Joy_Sigourney_Weaver_Miles_Teller_CCXP_2024.mp4
+2025-02-25 10:15:31,847 - app - INFO - Client disconnected: hwoFPS0W3ORcj5gmAAAH
+2025-02-25 10:15:32,639 - app - INFO - Client connected: raQpjnqdHFD34IPxAAAJ
+2025-02-25 10:15:45,113 - app - INFO - Client disconnected: -K4CcVOQZn4M2J20AAAB
+2025-02-25 10:15:46,156 - app - INFO - Client connected: Lo536nl6PvXQgKcnAAAL
+2025-02-25 10:15:49,173 - app - INFO - Client disconnected: LDlZgnI-rcu3bdkBAAAD
+2025-02-25 10:15:51,180 - app - INFO - Client connected: RznyEYZpf9tu7GBFAAAN
+2025-02-25 10:19:22,170 - app - INFO - Client connected: ZUGANNv1rA4-ZAADAAAB
+2025-02-25 10:19:22,896 - app - INFO - Client connected: tyArEnxzDe6eFlhlAAAD
+2025-02-25 10:19:23,191 - app - INFO - Client connected: wz_GEhFXHYKIMFPjAAAF
+2025-02-25 10:19:34,256 - app - INFO - Client connected: Npwy5F2aImPvlrxuAAAB
+2025-02-25 10:19:34,635 - app - INFO - Client connected: 5hXo2WQPFOTwbH0VAAAD
+2025-02-25 10:19:34,767 - app - INFO - Client connected: SWxwMdvg7XutZrf6AAAF
+2025-02-25 10:19:56,563 - app - INFO - Starting job 8bddb3d0-8742-43f3-a154-3cbf2b78ae18 for format mp4_best
+2025-02-25 10:20:19,027 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:20:19,030 - app - INFO - Job 8bddb3d0-8742-43f3-a154-3cbf2b78ae18 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpf9_9avzv\PORSCHE_9HATE9_-_BLENDER_ANIMATION.mp4
+2025-02-25 10:20:44,288 - app - INFO - Client disconnected: Npwy5F2aImPvlrxuAAAB
+2025-02-25 10:20:44,728 - app - INFO - Client disconnected: 5hXo2WQPFOTwbH0VAAAD
+2025-02-25 10:20:44,793 - app - INFO - Client disconnected: SWxwMdvg7XutZrf6AAAF
+2025-02-25 10:20:45,578 - app - INFO - Client connected: 7rJz5FRYLJzCZ_4MAAAH
+2025-02-25 10:20:46,148 - app - INFO - Client connected: tGdKdymUl532rA5hAAAK
+2025-02-25 10:20:46,157 - app - INFO - Client connected: O-giDxDJWSmfVw-EAAAL
+2025-02-25 10:26:59,161 - app - INFO - Client connected: xohh_zBXzhdIYT8LAAAB
+2025-02-25 10:26:59,216 - app - INFO - Client connected: c-r3ZIxqfFGEVdH6AAAD
+2025-02-25 10:27:00,551 - app - INFO - Client disconnected: c-r3ZIxqfFGEVdH6AAAD
+2025-02-25 10:27:00,952 - app - INFO - Client connected: j-Fz2GXbcGHxkZtjAAAF
+2025-02-25 10:27:03,447 - app - INFO - Client connected: hcMvCwKSX6VCFlALAAAH
+2025-02-25 10:27:24,503 - app - INFO - Starting job e3b03375-3fb8-4a70-8416-73e181db7064 for format mp4_best
+2025-02-25 10:27:55,132 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:27:55,135 - app - INFO - Job e3b03375-3fb8-4a70-8416-73e181db7064 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpl05yt9d2\Top_Gun_Maverick_Goosebumps_-_Travis_Scott_4K_120fps.mp4
+2025-02-25 10:27:55,145 - app - INFO - Client disconnected: j-Fz2GXbcGHxkZtjAAAF
+2025-02-25 10:27:55,163 - app - INFO - Client connected: 1eNxiHH1WBofayCiAAAK
+2025-02-25 10:27:55,174 - app - INFO - Client disconnected: hcMvCwKSX6VCFlALAAAH
+2025-02-25 10:27:55,181 - app - INFO - Client connected: 3eR9r1ErKAYbO65SAAAL
+2025-02-25 10:27:55,202 - app - INFO - Client disconnected: xohh_zBXzhdIYT8LAAAB
+2025-02-25 10:28:55,372 - app - INFO - Cleaned up job e3b03375-3fb8-4a70-8416-73e181db7064
+2025-02-25 10:28:55,378 - app - INFO - Client disconnected: 1eNxiHH1WBofayCiAAAK
+2025-02-25 10:28:55,392 - app - INFO - Client connected: kv9JIi_AL-g_AOZPAAAO
+2025-02-25 10:28:55,397 - app - INFO - Client disconnected: 3eR9r1ErKAYbO65SAAAL
+2025-02-25 10:28:55,404 - app - INFO - Client connected: YDWKZpAnHMlEQKSSAAAP
+2025-02-25 10:30:51,386 - app - INFO - Client connected: sUGuojKFzKDa9GOuAAAB
+2025-02-25 10:30:51,656 - app - INFO - Client connected: aJ4jexq6gp2UooUHAAAD
+2025-02-25 10:31:21,178 - app - INFO - Client connected: qHgIapC73qKBczIqAAAB
+2025-02-25 10:31:22,252 - app - INFO - Client connected: gR_h7e2MFbJQfSqpAAAD
+2025-02-25 10:31:22,381 - app - INFO - Client disconnected: gR_h7e2MFbJQfSqpAAAD
+2025-02-25 10:31:22,486 - app - INFO - Client connected: PqyZY1tyv511egBuAAAF
+2025-02-25 10:31:40,142 - app - INFO - Starting job 74dde6da-fa65-4700-8ba9-d7d46b585ed0 for format mp3_128
+2025-02-25 10:31:49,144 - app - INFO - Merged file not found; attempting manual merge with progress updates.
+2025-02-25 10:31:49,145 - app - ERROR - Conversion error in job 74dde6da-fa65-4700-8ba9-d7d46b585ed0: Merging failed: not enough parts found for manual merge.
+2025-02-25 10:31:59,526 - app - INFO - Starting job 493b30f3-45e1-4d1c-be66-762df195646d for format mp4_best
+2025-02-25 10:32:19,845 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:32:19,846 - app - INFO - Job 493b30f3-45e1-4d1c-be66-762df195646d completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp4wyp8rgb\Top_Gun_Maverick_Goosebumps_-_Travis_Scott_4K_120fps.mp4
+2025-02-25 10:32:44,867 - app - INFO - Client disconnected: PqyZY1tyv511egBuAAAF
+2025-02-25 10:33:45,062 - app - INFO - Cleaned up job 493b30f3-45e1-4d1c-be66-762df195646d
+2025-02-25 10:33:45,110 - app - INFO - Client disconnected: qHgIapC73qKBczIqAAAB
+2025-02-25 10:33:45,232 - app - INFO - Client connected: 7H6HUmnwopWR4rl6AAAK
+2025-02-25 10:37:06,170 - app - INFO - Client connected: i1uQQb7_SHiMLHT5AAAB
+2025-02-25 10:37:14,152 - app - INFO - Client connected: -KXDUyzIOmKLZdSNAAAD
+2025-02-25 10:37:38,166 - app - INFO - Starting job fe360c3d-7ad0-4640-b10c-61bd22e914b4 for format mp4_best
+2025-02-25 10:37:55,868 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 10:37:55,871 - app - INFO - Job fe360c3d-7ad0-4640-b10c-61bd22e914b4 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpgbqahf3z\Top_Gun_Maverick_Goosebumps_-_Travis_Scott_4K_120fps.mp4
+2025-02-25 10:38:16,172 - app - INFO - Client disconnected: i1uQQb7_SHiMLHT5AAAB
+2025-02-25 10:38:17,148 - app - INFO - Client connected: GzoAUnNsSTmBRkvmAAAF
+2025-02-25 10:38:24,089 - app - INFO - Client disconnected: -KXDUyzIOmKLZdSNAAAD
+2025-02-25 10:38:24,993 - app - INFO - Client connected: 4UuO9rPrXcGU9r5pAAAH
+2025-02-25 10:39:08,011 - app - INFO - Cleaned up job fe360c3d-7ad0-4640-b10c-61bd22e914b4
+2025-02-25 11:04:24,794 - app - INFO - Client disconnected: 4UuO9rPrXcGU9r5pAAAH
+2025-02-25 11:04:24,943 - app - INFO - Client connected: 7cknR6N9uVGj4k4xAAAJ
+2025-02-25 11:04:35,890 - app - INFO - Starting job 7ff18b43-46d9-4984-923b-e568a18fc14b for format mp3_128
+2025-02-25 11:04:50,385 - app - INFO - Merged file not found; attempting manual merge with progress updates.
+2025-02-25 11:04:50,387 - app - ERROR - Conversion error in job 7ff18b43-46d9-4984-923b-e568a18fc14b: Merging failed: not enough parts found for manual merge.
+2025-02-25 11:05:10,007 - app - INFO - Client disconnected: 7cknR6N9uVGj4k4xAAAJ
+2025-02-25 11:05:11,148 - app - INFO - Client connected: ou8lsK5__xu9ZI0rAAAL
+2025-02-25 11:05:16,212 - app - INFO - Client disconnected: ou8lsK5__xu9ZI0rAAAL
+2025-02-25 11:05:16,397 - app - INFO - Client connected: fz41iTKIrXIqYqmnAAAN
+2025-02-25 11:05:24,888 - app - INFO - Client disconnected: GzoAUnNsSTmBRkvmAAAF
+2025-02-25 11:05:26,145 - app - INFO - Client connected: mABADfBW2SNfYmLGAAAP
+2025-02-25 11:05:28,306 - app - INFO - Starting job 584a15a0-8a7a-421e-a522-0c8a78d8ecca for format mp4_best
+2025-02-25 11:05:54,737 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 11:05:54,742 - app - INFO - Job 584a15a0-8a7a-421e-a522-0c8a78d8ecca completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpzpeq9onz\The_Racer_Short_Film_-_Porsche.mp4
+2025-02-25 11:06:01,425 - app - INFO - Client disconnected: fz41iTKIrXIqYqmnAAAN
+2025-02-25 11:06:04,113 - app - INFO - Client connected: 2pLvUslgZReBo-U6AAAR
+2025-02-25 11:06:11,155 - app - INFO - Client disconnected: mABADfBW2SNfYmLGAAAP
+2025-02-25 11:06:13,160 - app - INFO - Client connected: eCY8MU9SnYWRF4ziAAAT
+2025-02-25 11:06:30,177 - app - INFO - Client disconnected: 2pLvUslgZReBo-U6AAAR
+2025-02-25 11:07:15,166 - app - INFO - Client connected: 4YOQDczwLlTTAe1OAAAV
+2025-02-25 11:07:30,200 - app - INFO - Cleaned up job 584a15a0-8a7a-421e-a522-0c8a78d8ecca
+2025-02-25 11:09:06,491 - app - INFO - Client connected: J-C9xju9pvMxFg64AAAB
+2025-02-25 11:09:06,729 - app - INFO - Client connected: em9F6Itk4MiFQnGpAAAD
+2025-02-25 11:09:52,660 - app - INFO - Client connected: F-NwGnMUBlptuYXBAAAB
+2025-02-25 11:10:55,856 - app - INFO - Client connected: iElZG2w-5-cxJNlKAAAE
+2025-02-25 11:11:13,730 - app - INFO - Starting job db794ad4-0d97-4d07-b743-9d15cfd955e3 for format mp3_128
+2025-02-25 11:11:20,018 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,020 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,024 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,028 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,037 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,046 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,069 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,096 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,131 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,167 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:20,205 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:11:24,539 - app - INFO - Merged file not found; attempting manual merge with progress updates.
+2025-02-25 11:11:24,540 - app - ERROR - Conversion error in job db794ad4-0d97-4d07-b743-9d15cfd955e3: Merging failed: not enough parts found for manual merge.
+2025-02-25 11:11:52,728 - app - INFO - Client disconnected: F-NwGnMUBlptuYXBAAAB
+2025-02-25 11:11:54,155 - app - INFO - Client connected: fXTADl74VXXdV69LAAAG
+2025-02-25 11:12:00,068 - app - INFO - Client connected: ZLdlnJiDMGcFRBsnAAAI
+2025-02-25 11:12:11,711 - app - INFO - Client disconnected: iElZG2w-5-cxJNlKAAAE
+2025-02-25 11:12:15,505 - app - INFO - Starting job 9a2698c5-8756-4507-8562-b4a542355b00 for format mp4_720
+2025-02-25 11:12:21,393 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,396 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,398 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,402 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,406 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,435 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,469 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,512 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,580 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,638 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,689 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,740 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,765 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,942 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,946 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,949 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,954 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,960 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,963 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,966 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,970 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:21,993 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:22,047 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:22,149 - app - ERROR - Progress hook error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-25 11:12:22,531 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 11:12:22,533 - app - INFO - Job 9a2698c5-8756-4507-8562-b4a542355b00 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp13tb58ja\The_first-ever_BMW_M5_CS..mp4
+2025-02-25 11:12:45,197 - app - INFO - Client disconnected: ZLdlnJiDMGcFRBsnAAAI
+2025-02-25 11:12:46,048 - app - INFO - Client connected: DQDhgFqahp-Akou5AAAK
+2025-02-25 11:12:48,569 - app - INFO - Client connected: X2AihDZ_BsMlGJaKAAAB
+2025-02-25 11:12:48,662 - app - INFO - Client connected: yLew9PbmJx4S_5Y7AAAD
+2025-02-25 11:19:49,948 - app - INFO - Client connected: Bw3o0hN-UA9W15hxAAAB
+2025-02-25 11:19:50,200 - app - INFO - Client connected: 2O0EItySkX_gKNP_AAAD
+2025-02-25 11:27:21,317 - app - INFO - Client connected: hT1_MeT1LAgWwqqZAAAB
+2025-02-25 11:27:22,144 - app - INFO - Client connected: y9T95owtFbRs6MGtAAAD
+2025-02-25 11:27:40,588 - app - INFO - Client disconnected: y9T95owtFbRs6MGtAAAD
+2025-02-25 11:27:40,853 - app - INFO - Client connected: 8brmVirhABj3RUJaAAAF
+2025-02-25 11:27:55,450 - app - INFO - Starting job 3159f2ea-cba8-49a8-9fe2-e8d1938c2014 for format mp3_256
+2025-02-25 11:28:07,660 - app - INFO - Single MP3 file found; using it directly.
+2025-02-25 11:28:07,662 - app - INFO - Job 3159f2ea-cba8-49a8-9fe2-e8d1938c2014 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpfe5bmug5\AMAZING_Drive_In_The_GT3_RS_4K_MY_EYES_-_Travis_Scott.mp3
+2025-02-25 11:28:20,072 - app - INFO - Starting job c68b217e-9e27-482b-8cf2-84bdd367ab33 for format mp4_720
+2025-02-25 11:28:29,133 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-25 11:28:29,138 - app - INFO - Job c68b217e-9e27-482b-8cf2-84bdd367ab33 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp17mktxxg\AMAZING_Drive_In_The_GT3_RS_4K_MY_EYES_-_Travis_Scott.mp4
+2025-02-25 11:28:41,739 - app - INFO - Client disconnected: 8brmVirhABj3RUJaAAAF
+2025-02-25 11:29:47,883 - app - INFO - Cleaned up job c68b217e-9e27-482b-8cf2-84bdd367ab33
+2025-02-25 11:31:47,564 - app - INFO - Client connected: 71QqUmc3R7rnHxWJAAAH
+2025-02-25 11:34:11,838 - app - INFO - Client disconnected: 71QqUmc3R7rnHxWJAAAH
+2025-02-25 11:34:11,878 - app - INFO - Client disconnected: hT1_MeT1LAgWwqqZAAAB
+2025-02-25 14:12:20,179 - app - INFO - Client connected: MuFVkEg4WYJkkPhXAAAK
+2025-02-25 14:12:20,525 - app - INFO - Client connected: xjFzMmGVS_Vi1S9uAAAL
+2025-02-25 14:36:56,511 - app - INFO - Client connected: 1qKK0v8G0xuX-JokAAAN
+2025-02-25 15:21:15,611 - app - INFO - Client disconnected: MuFVkEg4WYJkkPhXAAAK
+2025-02-25 15:21:15,627 - app - INFO - Client disconnected: xjFzMmGVS_Vi1S9uAAAL
+2025-02-25 15:21:15,627 - app - INFO - Client disconnected: 1qKK0v8G0xuX-JokAAAN
+2025-02-26 03:55:52,072 - app - INFO - Client connected: ri1XQEUntvDdM5xuAAAP
+2025-02-26 03:55:53,394 - app - INFO - Client connected: Owv_Yi6Thv9XkTMOAAAS
+2025-02-26 03:55:54,094 - app - INFO - Client connected: nLg-aU4fjVNLqzlpAAAT
+2025-02-26 04:30:24,169 - app - INFO - Client connected: ccQhha5YZgo1QFKJAAAB
+2025-02-26 04:30:24,206 - app - INFO - Client connected: rturMMmAaVaXi190AAAD
+2025-02-26 04:30:26,143 - app - INFO - Client connected: 4C7WOfrJzudAo3y3AAAF
+2025-02-26 04:31:28,154 - app - INFO - Client connected: jyES-GJqKSx-Sc5aAAAB
+2025-02-26 04:31:28,525 - app - INFO - Client connected: 6eqCBqtvTCemnkB_AAAD
+2025-02-26 04:31:30,157 - app - INFO - Client connected: F4DXlqhLIRAx4eLoAAAF
+2025-02-26 04:31:31,078 - app - INFO - Client disconnected: 6eqCBqtvTCemnkB_AAAD
+2025-02-26 04:31:31,695 - app - INFO - Client connected: 1jObyiqsP9K7FN-VAAAH
+2025-02-26 04:31:53,317 - app - INFO - Starting job c36833e2-96d5-4dd5-8d1d-23aef1b65858 for format mp3_256
+2025-02-26 04:32:04,934 - app - INFO - Single MP3 file found; using it directly.
+2025-02-26 04:32:04,938 - app - INFO - Job c36833e2-96d5-4dd5-8d1d-23aef1b65858 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmp9cas3gmj\AMAZING_Drive_In_The_GT3_RS_4K_MY_EYES_-_Travis_Scott.mp3
+2025-02-26 04:32:24,641 - app - INFO - Starting job 272fa3fa-fa29-4ddb-964b-f389d8ddf9ab for format mp4_720
+2025-02-26 04:32:33,773 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-26 04:32:33,776 - app - INFO - Job 272fa3fa-fa29-4ddb-964b-f389d8ddf9ab completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpd2wxe9sm\AMAZING_Drive_In_The_GT3_RS_4K_MY_EYES_-_Travis_Scott.mp4
+2025-02-26 04:33:04,963 - app - INFO - Cleaned up job c36833e2-96d5-4dd5-8d1d-23aef1b65858
+2025-02-26 04:33:33,826 - app - INFO - Cleaned up job 272fa3fa-fa29-4ddb-964b-f389d8ddf9ab
+2025-02-26 04:49:17,178 - app - INFO - Client connected: ZqD_OvBrsUldF0yrAAAB
+2025-02-26 04:49:17,832 - app - INFO - Client connected: _WWyp0IMVWv0kwUeAAAD
+2025-02-26 04:49:18,169 - app - INFO - Client connected: 6voS7eCW_WISixnnAAAF
+2025-02-26 04:49:18,360 - app - INFO - Client disconnected: _WWyp0IMVWv0kwUeAAAD
+2025-02-26 04:49:19,192 - app - INFO - Client connected: Bpq-AG684bWF-R25AAAH
+2025-02-26 04:49:40,074 - app - INFO - Starting job f4084895-9dfd-409a-9d05-6b6292d436c1 for format mp4_best
+2025-02-26 04:49:59,904 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-26 04:49:59,907 - app - INFO - Job f4084895-9dfd-409a-9d05-6b6292d436c1 completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpva0wzgkl\C_L_E_A_R_Y_O_U_R_M_I_N_D.mp4
+2025-02-26 04:50:59,981 - app - INFO - Cleaned up job f4084895-9dfd-409a-9d05-6b6292d436c1
+2025-02-26 04:54:56,815 - app - INFO - Client connected: B7aDfwoCW8iD_w9fAAAB
+2025-02-26 04:54:56,865 - app - INFO - Client connected: 4U4a5W0JYZhCGHKgAAAD
+2025-02-26 04:54:57,148 - app - INFO - Client connected: tON-gpKnGv2d4x23AAAF
+2025-02-26 04:56:51,138 - app - INFO - Client connected: SF41twmYaX1xPBHRAAAB
+2025-02-26 04:56:51,152 - app - INFO - Client connected: zYQ1L8Dmp3B4sINcAAAD
+2025-02-26 04:56:51,196 - app - INFO - Client connected: vGOFCBOqrp-biI7sAAAF
+2025-02-26 04:57:28,404 - app - INFO - Client connected: 1wG51EzE6gJh6ariAAAC
+2025-02-26 04:57:28,414 - app - INFO - Client connected: m8hnUIFIBKEoLZkjAAAD
+2025-02-26 04:57:28,636 - app - INFO - Client connected: kRQ0OvWmWCjS-gsUAAAF
+2025-02-26 05:02:18,976 - app - INFO - Client disconnected: m8hnUIFIBKEoLZkjAAAD
+2025-02-26 05:02:19,577 - app - INFO - Client connected: 52B8O9VhUcm5xn0IAAAH
+2025-02-26 05:03:01,674 - app - INFO - Starting job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae for format mp4_best
+2025-02-26 05:03:07,121 - app - INFO - Emitted progress: 0.0% with ETA: 22s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,125 - app - INFO - Emitted progress: 0.0% with ETA: 21s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,129 - app - INFO - Emitted progress: 0.1% with ETA: 15s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,135 - app - INFO - Emitted progress: 0.1% with ETA: 10s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,140 - app - INFO - Emitted progress: 0.3% with ETA: 7s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,145 - app - INFO - Emitted progress: 0.6% with ETA: 4s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,151 - app - INFO - Emitted progress: 1.1% with ETA: 2s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,157 - app - INFO - Emitted progress: 2.3% with ETA: 1s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,171 - app - INFO - Emitted progress: 4.6% with ETA: 1s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,196 - app - INFO - Emitted progress: 9.2% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,245 - app - INFO - Emitted progress: 18.4% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,337 - app - INFO - Emitted progress: 36.9% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,511 - app - INFO - Emitted progress: 73.8% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,580 - app - INFO - Emitted progress: 89.1% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,650 - app - INFO - Emitted progress: 89.1% with ETA: Nones for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,655 - app - INFO - Emitted progress: 89.1% with ETA: 2s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,660 - app - INFO - Emitted progress: 89.1% with ETA: 2s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,664 - app - INFO - Emitted progress: 89.2% with ETA: 1s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,669 - app - INFO - Emitted progress: 89.4% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,675 - app - INFO - Emitted progress: 89.7% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,680 - app - INFO - Emitted progress: 90.2% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:07,687 - app - INFO - Emitted progress: 91.4% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,228 - app - INFO - Emitted progress: 93.7% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,262 - app - INFO - Emitted progress: 98.0% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,270 - app - INFO - Emitted progress: 100.0% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,665 - app - INFO - Emitted progress: 0.0% with ETA: 69s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,677 - app - INFO - Emitted progress: 0.1% with ETA: 40s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,686 - app - INFO - Emitted progress: 0.1% with ETA: 26s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,693 - app - INFO - Emitted progress: 0.3% with ETA: 15s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,702 - app - INFO - Emitted progress: 0.6% with ETA: 8s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,726 - app - INFO - Emitted progress: 1.2% with ETA: 6s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,763 - app - INFO - Emitted progress: 2.5% with ETA: 4s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,805 - app - INFO - Emitted progress: 5.0% with ETA: 3s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,861 - app - INFO - Emitted progress: 9.9% with ETA: 1s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,913 - app - INFO - Emitted progress: 19.9% with ETA: 1s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:08,968 - app - INFO - Emitted progress: 39.8% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:09,250 - app - INFO - Emitted progress: 79.6% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:09,325 - app - INFO - Emitted progress: 100.0% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:09,610 - app - INFO - Single MP4 file found; using it directly without merging.
+2025-02-26 05:03:09,613 - app - INFO - Emitted progress: 100% with ETA: 0s for job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae
+2025-02-26 05:03:09,616 - app - INFO - Job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae completed. Final file at C:\Users\MUNEEB~1\AppData\Local\Temp\tmpvn7nm27t\Hey...are_you_ok_-_Assetto_Corsa.mp4
+2025-02-26 05:04:09,659 - app - INFO - Cleaned up job fcd61355-8384-4ecc-a3c5-f3d882b7b4ae

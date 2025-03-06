@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="layout">
+  <div id="previewSection">
+    <div class="left-section">
+      <div class="video-info">
+         <img id="videoThumbnail" src="/placeholder.svg" alt="Thumbnail" style="max-width: 320px; margin-bottom: 15px;">
+         <div class="text-left"><b id="videoTitle" class="video-title"></b></div>
+         <p style="margin-bottom: 20px;">Duration: <span id="videoDuration"></span> seconds</p>
+      </div>
+    </div>
+    <div class="right-section">
+      <ul class="tab-buttons">
+         <li><button id="audioTab" class="tab-btn active">Audio (MP3)</button></li>
+         <li><button id="videoTab" class="tab-btn">Video (MP4)</button></li>
+      </ul>
+      <!-- Preview table container – filled dynamically by JavaScript -->
+      <div id="previewTableContainer"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Hidden input for video URL (populated from query parameter) -->
+<input type="hidden" id="videoUrl" value="{{ request.args.get('url', '') }}">
+
+<!-- Download Link -->
+<div id="downloadLink" style="display: none;">
+  <a id="downloadAnchor" href="#" download>Download your file</a>
+</div>
+
+<!-- Modal Popup for Conversion Progress -->
+<div id="progressModal" class="modal" style="display: none;">
+  <div class="modal-content">
+    <h2>Conversion in Progress</h2>
+    <div id="progressValue">0%</div>
+    <div id="progressBar" style="background-color: #ddd; width: 100%; height: 20px; margin: 10px 0;">
+      <div id="progressFill" style="background-color: #de1c07; height: 100%; width: 0%;"></div>
+    </div>
+    <div id="estimatedTime">Estimated time remaining: --:--</div>
+  </div>
+</div>
+
+<!-- Socket.IO and index.js -->
+<script src="https://cdn.socket.io/3.1.3/socket.io.min.js"></script>
+<script src="{{ url_for('static', filename='index.js') }}"></script>
+{% endblock %}
